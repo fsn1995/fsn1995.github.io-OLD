@@ -1,6 +1,7 @@
 ## Shunan's geosite
-So far this is a test site...
-Share my experience with geoscience.
+### Personal Profile and Publications
+[Mendeley](https://www.mendeley.com/profiles/shunan-feng/)  
+[Google Scholar](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en) 
 
 ### Projects
 1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis)(Compare SPEI with NDVI anomalies) 
