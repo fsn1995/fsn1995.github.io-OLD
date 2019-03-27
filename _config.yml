@@ -1,7 +1,13 @@
 theme: jekyll-theme-minimal
+<<<<<<< HEAD
 title: Shunan's geosite
 logo: /picture/IMG_2446.JPG
 description: [Share my experience with geoscience
               Shunan Feng (冯树楠）
               - MSc in Physical Geography, Department of Earth Sciences, Uppsala University, Sweden
               - 浪漫在哪里呀]
+=======
+title: [Shunan's geosite]
+logo: [fsn1995.github.io/picture/IMG_2446.JPG]
+description: [Share my experience with geoscience]
+>>>>>>> 2ea955411a92646f8251f0e73b30357bc6888a20
