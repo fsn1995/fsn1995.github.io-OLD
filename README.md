@@ -1,6 +1,6 @@
 ## Shunan's geosite
 So far this is a test site...
-Share my experience with geoscience
+Share my experience with geoscience.
 
 ### Projects
 1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis)(Compare SPEI with NDVI anomalies) 
