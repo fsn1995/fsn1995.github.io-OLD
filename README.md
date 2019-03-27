@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Shunan's test site
+MSc in Physical Geography, Department of Earth Sciences, Uppsala University, Sweden
 
-You can use the [editor on GitHub](https://github.com/fsn1995/fsn1995.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Projects
+1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis)(Compare SPEI with NDVI anomalies) 
+- Poster at EGU General Assembly 2019:
+Fileni, F., Feng, S., Erikson., T, Winterdahl, M., Pettersson, R., Spatial and temporal analysis of vegetation response to meteorological droughts in California, 1984-2018 (Link to poster will be updated later)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fsn1995/fsn1995.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. Glacier surge study using Landsat imagery
+- Poster at EGU General Assembly 2019:
+Feng, S. and Pettersson, R., 2019. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 (Link to poster will be updated later)
