@@ -1,4 +1,4 @@
-## Student who studies the science for a changing world
+## Studying the science for a changing world
 ### Personal Profile and Publications
 [Mendeley](https://www.mendeley.com/profiles/shunan-feng/)  
 [Google Scholar](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en) 
