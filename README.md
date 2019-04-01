@@ -10,7 +10,7 @@ Fileni, F., Feng, S., Erikson., T, Winterdahl, M., Pettersson, R., Spatial and t
 
 2. Glacier surge study using Landsat imagery
 - Poster at EGU General Assembly 2019:  
-Feng, S. and Pettersson, R., 2019. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 [[(pdf)](/doc/Conference/EGU2019-135_Glacier Surge_Shunan.pdf)
+Feng, S. and Pettersson, R., 2019. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 [(pdf)](/doc/Conference/EGU2019-135_Glacier Surge_Shunan.pdf)
 
 ### Learning
 1. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
