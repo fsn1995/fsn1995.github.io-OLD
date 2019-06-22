@@ -1,7 +1,7 @@
 ## Studying the science for a changing world
 ### Personal Profile and Publications
 [Google Scholar](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en) 
-[CV](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/CV_Shunan Feng.pdf)  
+[CV](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/CV_Shunan%20Feng.pdf)  
 ### Projects
 1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis) (Compare SPEI with NDVI anomalies) 
 - Poster at EGU General Assembly 2019:
