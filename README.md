@@ -1,8 +1,7 @@
 ## Studying the science for a changing world
 ### Personal Profile and Publications
-[Mendeley](https://www.mendeley.com/profiles/shunan-feng/)  
 [Google Scholar](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en) 
-
+[CV](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/CV_Shunan%Feng.pdf)  
 ### Projects
 1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis) (Compare SPEI with NDVI anomalies) 
 - Poster at EGU General Assembly 2019:
@@ -10,7 +9,7 @@ Fileni, F., **Feng, S.**, Erikson., T, Winterdahl, M., Pettersson, R., 2019. Spa
 
 2. Glacier surge study using Landsat imagery
 - Poster at EGU General Assembly 2019:  
-**Feng, S.** and Pettersson, R., 2019. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 [EGU2019-135](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/Conference/EGU2019-135_Glacier%20Surge_Shunan.pdf.pdf)
+**Feng, S.** and Pettersson, R., 2019. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 [EGU2019-135](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/Conference/EGU2019-135_Glacier%20Surge_Shunan.pdf)
 
 ### Learning
 1. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
