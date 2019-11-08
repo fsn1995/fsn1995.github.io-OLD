@@ -12,9 +12,10 @@ Fileni, F., **Feng, S.**, Erikson., T, Winterdahl, M., Pettersson, R., 2019. Spa
 **Feng, S.** and Pettersson, R., 2019. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 [EGU2019-135](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/Conference/EGU2019-135_Glacier%20Surge_Shunan.pdf)
 
 ### Learning
-1. [Google Earth Engine practice and tools](https://github.com/fsn1995/Fun-with-Google-Earth-Engine)
-2. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
-3. [Python practice and tools](https://github.com/fsn1995/PythonFSN)
+1. [Google Earth Engine practice and tools (fun with GEE)](https://github.com/fsn1995/Fun-with-Google-Earth-Engine)
+2. [Google Earth Engine self-training](https://github.com/fsn1995/Goolgle-Earth-Engine-self-training)
+3. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
+4. [Python practice and tools](https://github.com/fsn1995/PythonFSN)
 
 ### To be continued...
 浪漫在哪里呀
