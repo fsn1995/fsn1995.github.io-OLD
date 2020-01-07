@@ -1,13 +1,5 @@
 theme: jekyll-theme-minimal
 title: Shunan Feng's geosite
 logo: /picture/IMG_2446.JPG
-description: Share my experience with geoscience - Shunan Feng (冯树楠) | RS&GIS Associate at the ICRC | fsn.1995@gmail.com/fsn.1995@foxmail.com
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155711901-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-155711901-1');
-</script>
+description: Share my experie
+nce with geoscience - Shunan Feng (冯树楠) | RS&GIS Associate at the ICRC | fsn.1995@gmail.com/fsn.1995@foxmail.com

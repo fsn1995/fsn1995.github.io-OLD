@@ -18,7 +18,7 @@ Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsa
 2. [Google Earth Engine self-training](https://github.com/fsn1995/Goolgle-Earth-Engine-self-training)
 3. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
 4. [Python practice and tools](https://github.com/fsn1995/PythonFSN)
-5. Currently interested in machine learning and is learning TensorFlow.
+5. Currently interested in learning machine learning and TensorFlow.
 ### To be continued...
 浪漫在哪里呀 
 [![HitCount](http://hits.dwyl.io/fsn1995/fsn1995githubio.svg)](http://hits.dwyl.io/fsn1995/fsn1995githubio)
