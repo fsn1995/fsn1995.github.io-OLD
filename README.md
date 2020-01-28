@@ -14,11 +14,13 @@ Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsa
 - Identifying surge type glacier from reconstructed glacier surface velocity.
 
 ### Learning
-1. [Google Earth Engine practice and tools (fun with GEE)](https://github.com/fsn1995/Fun-with-Google-Earth-Engine)
-2. [Google Earth Engine self-training](https://github.com/fsn1995/Goolgle-Earth-Engine-self-training)
-3. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
-4. [Python practice and tools](https://github.com/fsn1995/PythonFSN)
-5. Currently interested in learning machine learning and TensorFlow.
+1. [GeoResource Collection](https://fsn1995.github.io/GeoResource-Collection/)
+- A personal collection of the dataset/tools that I find useful in my study. This list will be frequently updated.
+2. [Google Earth Engine practice and tools (fun with GEE)](https://github.com/fsn1995/Fun-with-Google-Earth-Engine)
+3. [Google Earth Engine self-training](https://github.com/fsn1995/Goolgle-Earth-Engine-self-training)
+4. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
+5. [Python practice and tools](https://github.com/fsn1995/PythonFSN)
+6. Currently interested in learning machine learning and TensorFlow.
 ### To be continued...
 浪漫在哪里呀 
 [![HitCount](http://hits.dwyl.io/fsn1995/fsn1995githubio.svg)](http://hits.dwyl.io/fsn1995/fsn1995githubio)
