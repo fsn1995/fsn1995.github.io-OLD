@@ -21,6 +21,7 @@ Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsa
 4. [Matlab practice and tools](https://github.com/fsn1995/MatlabFSN)
 5. [Python practice and tools](https://github.com/fsn1995/PythonFSN)
 6. Currently interested in learning machine learning and TensorFlow.
+7. Searching for PhD position now, interested in RS and glaciers, snow and droughts.
 ### To be continued...
+
 浪漫在哪里呀 
-[![HitCount](http://hits.dwyl.io/fsn1995/fsn1995githubio.svg)](http://hits.dwyl.io/fsn1995/fsn1995githubio)
