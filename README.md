@@ -14,10 +14,11 @@
 ### 3. [Cold Surface Layer Dynamics of Large Glaciers, Northern Sweden 2009-2019](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren): master thesis
 
 ## GitHub Repositories
-### 1. [**Google Earth Engine practice and tools (fun with GEE)**](https://fsn1995.github.io/Fun-with-Google-Earth-Engine)
-### 2. [**Python practice and tools (fun with python)**](https://fsn1995.github.io/Fun-with-Python-for-Geodata/)
-### 3. [**GeoResource Collection**](https://fsn1995.github.io/GeoResource-Collection/)
+### 1. [Google Earth Engine practice and tools (fun with GEE)](https://fsn1995.github.io/Fun-with-Google-Earth-Engine)
+### 2. [Python practice and tools (fun with python)](https://fsn1995.github.io/Fun-with-Python-for-Geodata/)
+### 3. [GeoResource Collection](https://fsn1995.github.io/GeoResource-Collection/)
 - A personal collection of the dataset/tools that I find useful in my study. This list will be frequently updated.
+
 ### 4. [Matlab practice and tools (fun with matlab)](https://github.com/fsn1995/MatlabFSN)
 ### 5. [Google Earth Engine self-training](https://github.com/fsn1995/Goolgle-Earth-Engine-self-training)
 
