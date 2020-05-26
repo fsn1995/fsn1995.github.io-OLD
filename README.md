@@ -24,6 +24,7 @@
 
 ### To be continued...
 The best thing about earth science to me is the combination of geospatial data visualization and fieldwork. I am interested in understanding the process and climate response of earth surface, particularly time series analysis by combining the in-situ measurement, remote sensing or other geospatial data and model results. This had led me to specialize in remote sensing, geospatial data analysis and modelling during my study. I'm a self motivated learner. My experience with satellite image processing, spatial statistics, data analysis and visulization enables me to learn and practice skills with **MATLAB**, ENVI/IDL, **Google Earth Engine**, **Python** and ArcGIS etc. 
-Currently interested in learning machine learning and TensorFlow. Searching for PhD position now, interested in remote sensing and glaciers, snow and droughts.
+
+Currently interested in learning machine learning and TensorFlow. Searching for remote sensing and cryosphere related vacancy. 
 
 浪漫在哪里呀 
