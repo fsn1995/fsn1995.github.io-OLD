@@ -1,7 +1,7 @@
 # Studying the science for a changing world
 ## Personal Profile and Publications
 [Google Scholar](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en) |
-[CV academic](https://1drv.ms/b/s!Ao9m0qbImtZ-iGWXxW83P2YgBFAv?e=wdxsuQ)   |
+[CV academic](https://1drv.ms/b/s!Ao9m0qbImtZ-nDROwdiVP0Bv_M5E?e=GxMgNe)   |
 [CV non academic](https://1drv.ms/b/s!Ao9m0qbImtZ-m0EJGf8fuWf6ROEh?e=eSJ4sk)
 ## Projects
 ### 1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis) (Compare SPEI with NDVI anomalies) 
