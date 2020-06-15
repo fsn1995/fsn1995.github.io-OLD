@@ -10,7 +10,7 @@
 
 ### 2. Surge Type Glacier Identification on Northeast Spitsbergen, Svalbard from Landsat Imagery 1984-2018 
 - Poster at EGU General Assembly 2019 [EGU2019-135](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/Conference/EGU2019-135_Glacier%20Surge_Shunan.pdf)
-- Identifying surge type glacier from reconstructed glacier surface velocity.
+- Identifying surge type glacier from reconstructed glacier surface velocity. [Supplementary](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/Conference/EGU2019-135_Glacier%20Surge%20Supplementary_Shunan%20Feng.pdf) material was used during the conference.
 
 ### 3. [Cold Surface Layer Dynamics of Large Glaciers, Northern Sweden 2009-2019](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren): master thesis
 
