@@ -3,6 +3,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en)  |
 [CV academic](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/CV/Shunan%20Feng%20CV%20academic.pdf)  |
 [CV non academic](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/CV/Shunan%20Feng%20CV%20non%20academic.pdf)
+[简历](https://github.com/fsn1995/fsn1995.github.io/blob/master/doc/CV/冯树楠_简历.pdf)
 ## Projects
 ### 1. [Drought analysis with Google Earth Engine](https://github.com/fsn1995/Drought-Analysis) (Compare SPEI with NDVI anomalies) 
 - Poster at EGU General Assembly 2019 [EGU2019-19137](https://github.com/fsn1995/Drought-Analysis/blob/master/doc/EGU2019-19137_Drought%20Analysis.pdf) 
